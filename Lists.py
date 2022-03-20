@@ -133,16 +133,16 @@ print(x)
 #         sum=sum+numkids
 #         print(sum)
 #
-# #11
+#11
 # סוגי דם A O AB B
 # מבצע תרומה  איש 25
-# count=0
-# for i in range(25):
-#     name = input('enter name:')
-#     type_bloode = input('enter blood type:A/O/AB/B')
-#     years = int(input('enter your years:  '))
-#     if type_bloode=='o':
-#         count=count+1
-#
-#     print(name,type_bloode,years)
-# print('Number of blood types o=',count)
+count=0
+for i in range(25):
+    name = input('enter name:')
+    type_bloode = input('enter blood type:A/O/AB/B')
+    years = int(input('enter your years:  '))
+    if type_bloode=='o':
+        count=count+1
+
+    print(name,type_bloode,years)
+print('Number of blood types o=',count)

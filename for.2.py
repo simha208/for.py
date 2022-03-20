@@ -19,4 +19,4 @@ for i in range(11):
 # for j in l:
 #     print(j/11)
 
-#4.B
+
