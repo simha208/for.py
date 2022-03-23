@@ -1,4 +1,5 @@
 # #תרגילי list arrays
+
 # ##1
 # a = ['I love python']
 # print(a*5)
